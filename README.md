@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Arulalan Mohamedali</h1>
+<h1>Arulalan Mohamed Ali</h1>
 <p><strong>Data Scientist &nbsp;·&nbsp; Gen AI Engineer &nbsp;·&nbsp; AI/ML Enthusiast</strong></p>
 
 <a href="https://www.linkedin.com/in/arulalan-m/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -11,7 +11,7 @@
 
 ```python
 arulalan = {
-    "name"     : "Arulalan Mohamedali",
+    "name"     : "Arulalan Mohamed Ali",
     "roles"    : ["Data Scientist", "Gen AI Engineer", "AI/ML Enthusiast"],
     "stack"    : ["Python", "Pandas", "NumPy", "scikit-learn", "SQL", "Power BI", "LLMs", "RAG"],
     "building" : "AI that solves real problems",
